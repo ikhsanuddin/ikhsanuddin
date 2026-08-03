@@ -1,24 +1,20 @@
-## Hi, I'm Ikhsan 👋
+## Hi, I'm Ikhsan
 
-Senior Full-Stack Engineer with 9 years of experience shipping web apps,
-decentralized exchanges, and cloud infrastructure. Currently building
-AI-powered preconstruction tools at [Boon](https://getboon.ai) — fully remote.
-
-**Open to remote roles with US teams.**
+Senior Software Engineer with 10 years of experience building products across
+the full stack. Currently at [Boon](https://getboon.ai) since February 2026,
+focused on AI-powered B2B workflows.
 
 ### What I work with
 
-- **Frontend** — React/Next.js, TypeScript, 3D canvas, offline-first (service workers + IndexedDB)
-- **Backend** — Node.js, Go · GraphQL & REST · PostgreSQL, MongoDB, Redis
-- **Infra** — Docker, Kubernetes, Terraform, AWS, GitHub Actions
+- **Product engineering:** React/Next.js, TypeScript, Ruby on Rails, Node.js, and Go
+- **Cloud infrastructure:** AWS and Kubernetes
+- **Previous Web3 work:** Telegram trading and decentralized exchange services
 
-### Recent work
+### Selected work
 
-- 🤖 AI agent & LLM-powered workflows for construction preconstruction (Boon)
-- 📈 [ai-leads-management](https://github.com/ikhsanuddin/ai-leads-management) — B2B lead management with AI enrichment
-- ⛓️ Telegram trading app + DEX services in TypeScript & Go (Undercurrent Capital)
-- 🌐 [ikhsanuddin.com](https://github.com/ikhsanuddin/ikhsanuddin.com) — this site, rebuilt with Astro 5 + Tailwind v4
+- [ai-leads-management](https://github.com/ikhsanuddin/ai-leads-management): B2B lead management with AI enrichment
+- [ikhsanuddin.com](https://ikhsanuddin.com): personal site
 
 ### Find me
 
-[ikhsanuddin.com](https://ikhsanuddin.com) · [LinkedIn](https://linkedin.com/in/ikhsanuddin) · mail.ikhsanuddin@gmail.com
+[LinkedIn](https://linkedin.com/in/ikhsanuddin) | [Email](mailto:mail.ikhsanuddin@gmail.com)

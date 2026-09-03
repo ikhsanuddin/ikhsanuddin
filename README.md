@@ -17,6 +17,10 @@ Working fully remote with a US team from Jakarta (UTC+7). Open to US-remote role
 - [ai-leads-management](https://github.com/ikhsanuddin/ai-leads-management): B2B lead management with AI enrichment
 - [ikhsanuddin.com](https://ikhsanuddin.com): personal site
 
+### Writing
+
+- [Your Attribution Dies at the Signup Form. That's Where the Money Question Starts.](articles/marketing-attribution-beyond-signup.md): why campaign context has to survive past account creation, from building a B2B trial flow
+
 ### Find me
 
 [LinkedIn](https://linkedin.com/in/ikhsanuddin) | [Email](mailto:mail.ikhsanuddin@gmail.com)
